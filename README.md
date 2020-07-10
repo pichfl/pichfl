@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
+
+<br>
+
+<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" /></p>
+
+<br>
 
 <!--
 **pichfl/pichfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
