@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" /></p>
+<p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="64" height="64" /></p>
 
 <br>
 
